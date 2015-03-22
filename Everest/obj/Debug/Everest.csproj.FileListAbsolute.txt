@@ -1,0 +1,9 @@
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\Everest\Everest\bin\Debug\Everest.exe.config
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\Everest\Everest\obj\Debug\Everest.Properties.Resources.resources
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\Everest\Everest\obj\Debug\Everest.csproj.GenerateResource.Cache
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\Everest\Everest\bin\Debug\Everest.exe
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\Everest\Everest\bin\Debug\Everest.pdb
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\Everest\Everest\obj\Debug\Everest.exe
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\Everest\Everest\obj\Debug\Everest.pdb
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\Everest\Everest\obj\Debug\Everest.csprojResolveAssemblyReference.cache
+C:\Users\Назар\Documents\Visual Studio 2012\Projects\Everest\Everest\obj\Debug\Everest.MainForm.resources
